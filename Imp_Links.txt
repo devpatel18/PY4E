@@ -1,0 +1,20 @@
+Helpful articles for python:
+
+https://www.freecodecamp.org/news/if-name-main-python-example/
+https://www.programiz.com/python-programming/object-oriented-programming
+https://www.geeksforgeeks.org/testing-in-python-using-doctest-module/
+https://www.programiz.com/python-programming/methods/built-in/memoryview
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
+https://data.nas.nasa.gov/
+https://www.programiz.com/python-programming/iterator
+https://www.programiz.com/python-programming/anonymous-function
+https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8
+https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8
+https://www.programiz.com/python-programming/generator
+https://www.machinelearningplus.com/python/what-does-yield-keyword-do/
+https://www.programiz.com/python-programming/operator-overloading
+https://www.programiz.com/python-programming/keyword-list
+https://www.programiz.com/python-programming/closure
+https://www.tutorialsteacher.com/python/python-package
+https://www.programiz.com/python-programming/decorator
+https://www.geeksforgeeks.org/args-kwargs-python/

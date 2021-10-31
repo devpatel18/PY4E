@@ -1,0 +1,34 @@
+﻿DEV (9/2/2021, 12:01:16 PM): hello 
+Judy S (9/2/2021, 12:01:43 PM): Hi Dev. 
+DEV (9/2/2021, 12:01:44 PM): thnank you for connecting with me 
+Judy S (9/2/2021, 12:02:00 PM): Thank you for reaching out to us. 
+DEV (9/2/2021, 12:02:02 PM): my honors badge is not showing up on my certificate 
+Judy S (9/2/2021, 12:02:09 PM): How can I assist you today? 
+DEV (9/2/2021, 12:02:51 PM): all my assignments are graded for the honors content 
+Judy S (9/2/2021, 12:02:52 PM): I'm sorry to know that that you're unable to see the honors on your certificate. 
+DEV (9/2/2021, 12:03:05 PM): please look in the matter and help me out 
+Judy S (9/2/2021, 12:03:23 PM): Could you please detail the name of the course you are referring to? 
+DEV (9/2/2021, 12:03:50 PM): python for everbody specialization offered by university of michigan 
+DEV (9/2/2021, 12:04:30 PM): the honors content shows up in course 5 of the specialization 
+Judy S (9/2/2021, 12:04:42 PM): Could you please provide your email address as well. 
+DEV (9/2/2021, 12:04:58 PM): dev42a@gmail.com 
+Judy S (9/2/2021, 12:05:13 PM): Thank you for the information. 
+Judy S (9/2/2021, 12:05:25 PM): Allow me a moment to check this for you. 
+Judy S (9/2/2021, 12:07:03 PM): I could confirm that you finished the honor assignment. 
+Judy S (9/2/2021, 12:07:26 PM): I will need to pass along this information to our specialist for further assistance. 
+DEV (9/2/2021, 12:07:26 PM): okay? 
+Judy S (9/2/2021, 12:08:17 PM): My apology that I am unable to provide time frame. 
+DEV (9/2/2021, 12:08:37 PM): so by when should i expect to see the issue resolved? 
+Judy S (9/2/2021, 12:08:42 PM): But rest assured that we will work on this to resolve the issue as quickly as possible. 
+DEV (9/2/2021, 12:09:17 PM): okay works for me but please see to it that i dont have to chat again for the same issue 
+Judy S (9/2/2021, 12:09:19 PM): Once resolved, you will received an update on your email. 
+DEV (9/2/2021, 12:09:48 PM): okay thanks ! 
+Judy S (9/2/2021, 12:10:18 PM): thank you for understanding. 
+Judy S (9/2/2021, 12:10:34 PM): Is there anything else I can assist you with today? 
+DEV (9/2/2021, 12:10:57 PM): nope,thanks! 
+Judy S (9/2/2021, 12:11:16 PM): Thanks for using Coursera’s chat support. Happy learning!
+Goodbye! 
+DEV (9/2/2021, 12:11:46 PM): just out of curiosity are you a bot or a real person for assistance? 
+Judy S (9/2/2021, 12:12:30 PM): I'm real learner support. 
+DEV (9/2/2021, 12:12:49 PM): okay cool :) , have a good day! 
+Judy S (9/2/2021, 12:13:40 PM): Have a great day! 
